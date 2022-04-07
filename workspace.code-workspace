@@ -1,12 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "..\\C++ Study"
 		}
 	],
-	"settings": {
-		"files.associations": {
-			"ostream": "cpp"
-		}
-	}
+	"settings": {}
 }
